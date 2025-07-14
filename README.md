@@ -102,6 +102,7 @@ notebooks/eda.ipynb
 ```bash
 streamlit run app/app.py
 ```
+Check out the live project here: [Cross Selling Recommendation](https://cross-selling-recommendation-767jdtcxbgoemcr7p8iuwe.streamlit.app/)
 
 ### 🧪 Testing with Sample Data
 
