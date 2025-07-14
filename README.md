@@ -63,6 +63,7 @@ order_id,product_name
 
 ## 🗂 Project Structure
 
+```
 ├── data/
 │ └── sample_transactions.csv # Sample transaction dataset for testing
 ├── notebooks/
@@ -74,7 +75,7 @@ order_id,product_name
 ├── requirements.txt # Python dependencies
 ├── README.md
 └── .gitignore
-
+```
 
 ---
 
