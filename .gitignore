@@ -1,0 +1,21 @@
+# Ignore data files
+data/*.csv
+data/*.xlsx
+data/*.parquet
+
+# Ignore outputs
+outputs/*
+
+# Jupyter and IPython
+.ipynb_checkpoints/
+*.ipynb
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+# VSCode or Codespaces
+.vscode/
