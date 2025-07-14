@@ -17,14 +17,14 @@ We use **transaction-level retail data**, where each row represents a product pu
 
 Example structure:
 
-`` 
+```
 order_id,product_name
 1,Bread
 1,Milk
 1,Eggs
 2,Bread
 2,Butter
-``
+```
 
 **Dataset Used**
 
