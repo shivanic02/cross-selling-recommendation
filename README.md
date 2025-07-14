@@ -29,7 +29,7 @@ order_id,product_name
 **Dataset Used**
 
 - A small example dataset (`sample_transactions.csv`) is included for testing.
-- This structure is inspired by real-world datasets like the [Instacart Market Basket Analysis dataset](https://www.kaggle.com/datasets/yasserh/instacart-online-grocery-basket-analysis-dataset/data).
+- This structure is inspired by real-world datasets like the [Instacart Market Basket Analysis dataset](https://www.kaggle.com/datasets/yasserh/instacart-online-grocery-basket-analysis-dataset/data)
 
 ---
 
